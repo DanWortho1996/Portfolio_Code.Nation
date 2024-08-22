@@ -1,0 +1,100 @@
+h1{
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: brown;
+}
+
+.aboutme{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+body p{
+    color:  whitesmoke;
+}
+
+.container{
+    display: flex;
+    color: whitesmoke;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.thatstyle{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    align-items: center;
+    padding: 10px;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+/* My time with Code.Nation link and image this refers too */
+.theCodeNation{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.progressionTitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.progressAims{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.progressGoals{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.cloneTitle{
+    display: flex;
+    color: whitesmoke;
+    padding-left: 185px;
+    font-size: 30px;
+}
+
+.projects{
+    padding-right: 770px;
+}
+
+.skyProject p{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 185px;
+}
+
